@@ -1,8 +1,5 @@
 # Coding-focused student lab
 
-Use OneImaging_Coding_Workbook_v5.pdf: rules pages 2-4, setup page 5,
-UMPIRE page 6 and Task 1 page 7. You write the feature modules yourself.
-
 Use Node 24.x or a supported Node 22 release at least 22.12.
 
 npm ci

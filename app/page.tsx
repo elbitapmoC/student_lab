@@ -11,7 +11,7 @@ export const HomePage = async () => {
     <main className="mx-auto max-w-6xl px-5 py-10 sm:px-8 lg:py-14">
       <header className="mb-7">
         <p className="mb-2 text-xs font-semibold uppercase tracking-[0.16em] text-[#52756e]">
-          OneImaging · Schedule
+          Patient · Schedule
         </p>
         <div className="flex flex-wrap items-end justify-between gap-4">
           <div>
