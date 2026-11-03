@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a1",
+    "providerId": "p1",
+    "patientName": "Alex Morgan",
+    "providerName": "Dr. Smith",
+    "date": "2024-06-01",
+    "time": "10:00",
+    "location": "Room 101",
+    "scanType": "MRI",
+    "status": "requested"
+  },
+  {
+    "id": "a2",
+    "providerId": "p1",
+    "patientName": "Jamie Rivera",
+    "providerName": "Dr. Smith",
+    "date": "2024-06-02",
+    "time": "11:00",
+    "location": "Room 102",
+    "scanType": "CT",
+    "status": "scheduled"
+  },
+  {
+    "id": "a3",
+    "providerId": "p1",
+    "patientName": "Taylor Lee",
+    "providerName": "Dr. Smith",
+    "date": "2024-06-03",
+    "time": "12:00",
+    "location": "Room 103",
+    "scanType": "X-ray",
+    "status": "cancelled"
+  },
+  {
+    "id": "a4",
+    "providerId": "p1",
+    "patientName": "Robin Patel",
+    "providerName": "Dr. Smith",
+    "date": "2024-06-04",
+    "time": "13:00",
+    "location": "Room 104",
+    "scanType": "MRI",
+    "status": "requested"
+  },
+  {
+    "id": "a5",
+    "providerId": "p2",
+    "patientName": "Casey Chen",
+    "providerName": "Dr. Johnson",
+    "date": "2024-06-05",
+    "time": "14:00",
+    "location": "Room 105",
+    "scanType": "CT",
+    "status": "requested"
+  },
+  {
+    "id": "a6",
+    "providerId": "p2",
+    "patientName": "Drew Brooks",
+    "providerName": "Dr. Johnson",
+    "date": "2024-06-06",
+    "time": "15:00",
+    "location": "Room 106",
+    "scanType": "MRI",
+    "status": "scheduled"
+  }
+]
